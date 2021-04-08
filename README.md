@@ -1,12 +1,12 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+Sistemas de Informação
 
-`DISCIPLINA`
+Projeto: Aplicações Web
 
-`SEMESTRE`
+Primeiro Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto que se encontra em desenvolvendo trata-se de um sistema que liga produtos e serviços pet's. Um sistema capaz de unir prestadores de serviços/clientes baseado nas mais diferentes demandas de serviços
 
 ## Integrantes
 
